@@ -1,4 +1,4 @@
-# Whitehat School `vulhub` 내 취약한(CVE) Docker 환경 구성
+# Whitehat School `vulhub` 내 취약한(CVE) Docker 환경 구성 실습
 차세대 보안리더 양성 프로그램 '화이트햇 스쿨' 3기 과제 제출용 Repository입니다.
 
 # Flask SSTI Vulnerability PoC

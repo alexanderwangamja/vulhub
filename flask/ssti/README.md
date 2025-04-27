@@ -81,8 +81,10 @@ This exercise demonstrated how a simple input field vulnerability in a Flask app
 
 ---
 
-# Repository Link
+## Pull Request
 
-- TBU
+This work has been submitted through a GitHub Pull Request, available at the following link:
+
+- [https://github.com/vulhub/vulhub/pull/689](https://github.com/vulhub/vulhub/pull/689)
 
 ---
